@@ -1,0 +1,32 @@
+body{
+    background: linear-gradient(222.26deg, #3B1D60 1.22%, #040D3E 106.28%);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.header__nav{
+    padding-top: 79px;
+    padding-bottom: 104px;
+}
+
+.bg__main{
+    background-image: url(../img/bg__main.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.img__bg{
+    height: 520px;
+    background-image: url(../img/img__bg.png);
+    background-repeat: no-repeat;
+    margin-top: 169px;
+}
+
+.footer__nav{
+    background-image: url(../img/footer__bg.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
